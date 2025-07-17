@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/NetworkSchematicsApp/static/css/main.d63c2a0c.css",
-    "main.js": "/NetworkSchematicsApp/static/js/main.2a65d840.js",
+    "main.js": "/NetworkSchematicsApp/static/js/main.1748bf0e.js",
     "static/js/453.068367f6.chunk.js": "/NetworkSchematicsApp/static/js/453.068367f6.chunk.js",
     "static/media/logo.svg": "/NetworkSchematicsApp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/NetworkSchematicsApp/index.html",
     "main.d63c2a0c.css.map": "/NetworkSchematicsApp/static/css/main.d63c2a0c.css.map",
-    "main.2a65d840.js.map": "/NetworkSchematicsApp/static/js/main.2a65d840.js.map",
+    "main.1748bf0e.js.map": "/NetworkSchematicsApp/static/js/main.1748bf0e.js.map",
     "453.068367f6.chunk.js.map": "/NetworkSchematicsApp/static/js/453.068367f6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d63c2a0c.css",
-    "static/js/main.2a65d840.js"
+    "static/js/main.1748bf0e.js"
   ]
 }
